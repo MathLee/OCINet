@@ -1,2 +1,30 @@
 # OCINet
-[TIM2025] [OCINet] Ordered Cross-Scale Interaction Network for No-Service Rail Surface Defect Segmentation
+This project provides the code and results for 'Ordered Cross-Scale Interaction Network for No-Service Rail Surface Defect Segmentation', IEEE TIM, 2025. [IEEE](https://ieeexplore.ieee.org/document/11018271) [Homepage](https://mathlee.github.io/)
+
+# Network Architecture
+   <div align=center>
+   <img src="https://github.com/MathLee/OCINet/blob/main/images/OCINet.png">
+   </div>
+
+
+# Saliency maps
+   We provide [segmentation maps](https://pan.baidu.com/s/1oXRsAWJLpat-RydXWlfvTQ) (code: gaw6) of our OCINet and all compared methods on the NRSD-MN dataset.
+      
+   ![Image](https://github.com/MathLee/OCINet/blob/main/images/table.png)
+   
+
+# Citation
+        @ARTICLE{Li_2025_OCINet,
+                author = {Gongyang Li and Xiaofei Zhou and Hongyun Li},
+                title = {Ordered Cross-Scale Interaction Network for No-Service Rail Surface Defect Segmentation},
+                journal = {IEEE Transactions on Instrumentation and Measurement},
+                volume = {},
+                pages = {},
+                year = {2025},
+                }
+                
+                
+If you encounter any problems with the code, want to report bugs, etc.
+
+Please get in touch with me at lllmiemie@163.com or ligongyang@shu.edu.cn.
+
