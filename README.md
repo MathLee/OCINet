@@ -10,7 +10,7 @@ This project provides the code and results for 'Ordered Cross-Scale Interaction 
    python 3.8 + pytorch 1.9.0
 
 # Saliency maps
-   We provide [segmentation maps](https://pan.baidu.com/s/1oXRsAWJLpat-RydXWlfvTQ) (code: gaw6) of our OCINet and 19 compared methods on the NRSD-MN dataset.
+   We provide [segmentation maps](https://pan.baidu.com/s/1oXRsAWJLpat-RydXWlfvTQ) (code: gaw6) of our OCINet and 19 compared methods on the [NRSD-MN dataset](https://github.com/zdfcvsn/MCnet).
       
    ![Image](https://github.com/MathLee/OCINet/blob/main/images/table.png)
 
@@ -60,4 +60,3 @@ Note: Our main model is under './model/OCINet_models.py'
 If you encounter any problems with the code, want to report bugs, etc.
 
 Please get in touch with me at lllmiemie@163.com or ligongyang@shu.edu.cn.
-
