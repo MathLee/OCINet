@@ -26,7 +26,7 @@ Note: Our main model is under './model/OCINet_models.py'
 
 
 # Pre-trained model and testing
-1. Download the [pre-trained model](https://pan.baidu.com/s/1UHg0bOiPRTJwWzpu89Eyog) (code: hryz) on NRSD-MN dataset, and put it in './models/'.
+1. Download the [pre-trained model](https://pan.baidu.com/s/1UHg0bOiPRTJwWzpu89Eyog) (code: hryz) on the NRSD-MN dataset, and put it in './models/'.
 
 2. Modify paths of pre-trained models and datasets.
 
