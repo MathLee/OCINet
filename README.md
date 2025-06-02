@@ -13,13 +13,13 @@ This project provides the code and results for 'Ordered Cross-Scale Interaction 
    ![Image](https://github.com/MathLee/OCINet/blob/main/images/table.png)
    
 # Our related work
-2025_IEEE SJ_[DiffRSDI](https://github.com/zeroyi37/DiffRSDI)
+[2025_IEEE SJ_DiffRSDI](https://github.com/zeroyi37/DiffRSDI)
 
-2023_IEEE TIM_[NaDiNet](https://github.com/monxxcn/NaDiNet)
+[2023_IEEE TIM_NaDiNet](https://github.com/monxxcn/NaDiNet)
 
-2022_IEEE TIM_[TSERNet](https://github.com/monxxcn/TSERNet)
+[2022_IEEE TIM_TSERNet](https://github.com/monxxcn/TSERNet)
 
-2022_Measurement_[CSEPNet](https://github.com/showmaker369/CSEPNet)
+[2022_Measurement_CSEPNet](https://github.com/showmaker369/CSEPNet)
 
 
 # Citation
