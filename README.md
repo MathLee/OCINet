@@ -12,6 +12,12 @@ This project provides the code and results for 'Ordered Cross-Scale Interaction 
       
    ![Image](https://github.com/MathLee/OCINet/blob/main/images/table.png)
    
+# Our related work
+[DiffRSDI](https://github.com/zeroyi37/DiffRSDI)
+[NaDiNet](https://github.com/monxxcn/NaDiNet)
+[TSERNet](https://github.com/monxxcn/TSERNet)
+[CSEPNet](https://github.com/showmaker369/CSEPNet)
+
 
 # Citation
         @ARTICLE{Li_2025_OCINet,
