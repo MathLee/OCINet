@@ -17,7 +17,7 @@ This project provides the code and results for 'Ordered Cross-Scale Interaction 
 # Training   
    Download [pvt_v2_b2.pth](https://pan.baidu.com/s/1U6Bsyhu0ynXckU6EnJM35w) (code: sxiq), and put it in './model/'. 
 
-   Download [dataset.pth]() (code: ), and unzip it. Then, we use data_aug.m for data augmentation.
+   Download [dataset.zip]() (code: ), and unzip it. Then, we use data_aug.m for data augmentation.
    
    Modify paths of datasets, then run train_OCINet.py.
 
