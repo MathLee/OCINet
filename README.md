@@ -51,9 +51,10 @@ Note: Our main model is under './model/OCINet_models.py'
                 author = {Gongyang Li and Xiaofei Zhou and Hongyun Li},
                 title = {Ordered Cross-Scale Interaction Network for No-Service Rail Surface Defect Segmentation},
                 journal = {IEEE Transactions on Instrumentation and Measurement},
-                volume = {},
-                pages = {},
+                volume = {74},
+                pages = {5033210},
                 year = {2025},
+                month = {Jun.},
                 }
                 
                 
